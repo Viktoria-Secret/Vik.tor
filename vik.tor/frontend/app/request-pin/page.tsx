@@ -1,0 +1,1 @@
+export default function Req(){return <h1>Request PIN</h1>;}
